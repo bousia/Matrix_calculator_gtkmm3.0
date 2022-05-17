@@ -1,0 +1,6 @@
+# ignore vscode configuration
+.vscode/**
+# ignore output files
+**/*.o
+# ignore app
+main
